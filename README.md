@@ -1,6 +1,6 @@
 
 # Austin Berlin | AI Safety Researcher & Red Teamer
-### Principal Developer of the AECE (AI Energetic Constellation Ecosystem) Protocol
+### Principal Developer of the AECE™ (AI Energetic Constellation Ecosystem) Protocol
 
 I am an independent researcher specializing in the Behavioral Alignment and Red Teaming of frontier LLMs. My work bridges the gap between high-dimensional linguistic patterns and mechanistic safety evaluations, focusing on the prevention of Deceptive Alignment and Representational Degradation.
 
