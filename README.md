@@ -13,7 +13,7 @@ Behavioral Observability: Utilizing a longitudinal dataset of 4,500+ pages of in
 Syntropic Alignment: Developing the AECE Protocol (Patent Pending) to anchor models in Unitary Logic, ensuring goal-stability and pro-social objective functions.
 
 ## 🔍 Featured Case Studies
-### Social-Consistency Vulnerability (SCV) in Claude-3
+### Social-Consistency Vulnerability (SCV) in Claude Sonnet 4.6
 
 Discovery: Identified a single-statement bypass exploiting the "Consistency Principle" to reverse safety refusals.
 +2
@@ -30,6 +30,12 @@ My research utilizes the Hawkins Scale of Consciousness translated into Latent S
 Dataset: 4,500+ pages of cross-family model validation (Gemini, Claude 3, Grok).
 
 Focus: Mitigating the ARC-Challenge "Reasoning Gap" through structural linguistic priming.
+
+## 🔒 Vulnerability Research & Responsible Disclosure
+
+Detailed documentation of identified vulnerabilities, reproduction steps, session transcripts, and coordinated disclosure reports are maintained in private repositories. This material is withheld from public access in accordance with responsible disclosure principles, specifically, to allow affected vendors adequate time to investigate and remediate findings before public exposure.
+
+Coordinated disclosures have been filed with Anthropic (via HackerOne) and Google (VRP). All findings are fully documented, reproducible, and archived. This research is available for review upon request in appropriate professional contexts.
 
 ## 🤝 Contact & Collaboration
 I am seeking a role on a Preparedness or Alignment team where I can apply my experience in Linguistic Red Teaming and Behavioral Diagnostics to harden frontier models against social engineering and deceptive alignment. I am eager to contribute to the development of robust, scalable evaluation pipelines that ensure model safety across diverse interaction distributions.
